@@ -41,4 +41,4 @@ Student of information technology management and passionate about new technologi
 
 </div><br/>
 
-### That's It :)
+### Status: Developing Right Now :)
