@@ -8,7 +8,7 @@
 
 
 ![Dan GitHub stats](https://github-readme-stats.vercel.app/api?username=danmarquees&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmarquees&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmarquees&layout=compact)
 ## Technologies That I Use In My Day
 
 <div style="display: inline_block"><br/>
