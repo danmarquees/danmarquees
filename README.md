@@ -68,4 +68,4 @@ Student of information technology management and passionate about new technologi
 
 </div><br/>
 
-### Status: Django:)
+### Status: I'll Be Back.
