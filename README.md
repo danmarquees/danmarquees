@@ -2,7 +2,7 @@
 *Um entusiasta de tecnologia e estudante de Gestão de Tecnologia da Informação apaixonado por resolver problemas e criar soluções para a web, com foco em desenvolvimento backend com Python e Django. Atualmente, estou aprimorando minhas habilidades em React e buscando oportunidades para colaborar em projetos inovadores.*
 
 <div>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danilo_marques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:d.silvamartques@gmail.comn"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
@@ -65,9 +65,9 @@
   </tr>
   <tr>
     <td>
-      <h3><a href="URL_DO_SEU_PROJETO_3">Nome do Projeto 3</a></h3>
-      <p><strong>Descrição:</strong> Adicione a descrição do seu terceiro projeto em destaque.</p>
-      <p><strong>Tecnologias:</strong> Liste as tecnologias utilizadas aqui.</p>
+      <h3><a href="(https://github.com/danmarquees/symplifika-django">Nome do Projeto 3 (Symplifika)</a></h3>
+      <p><strong>Descrição:</strong> A Symplifika é uma aplicação web moderna e completa, projetada para aumentar a produtividade através da gestão inteligente de atalhos de texto. O objetivo principal é eliminar a necessidade de digitar repetidamente frases, parágrafos ou blocos de código, permitindo que o usuário crie "gatilhos" (ex: //email-boasvindas) que se expandem automaticamen</p>
+      <p><strong>Tecnologias:</strong> Python, Django, PostgreSQL, HTML, CSS.</p>
     </td>
   </tr>
 </table>
