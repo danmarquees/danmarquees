@@ -8,13 +8,6 @@
 
 <hr/>
 
-## 📊 My GitHub Stats
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danmarquees&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Dan's GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmarquees&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
-<hr/>
-
 ## 🛠️ Skills and Technologies
 
 **Programming Languages**
