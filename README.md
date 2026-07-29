@@ -48,5 +48,5 @@ I work with a modern stack, always choosing the right tool for the job—whether
 <br>
 
 <div align="center">
-  <h3><i>Status: I'm Back, Baby!</i> 🔋</h3>
+  <h3><i>Status: Two Months Off.</i> 🔋</h3>
 </div>
